@@ -1,0 +1,23 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="ctvchannel.tv" tvg-name="CTV HD" tvg-logo="http://www.ctvchannel.tv/Images/PageEn/1/CTVLogo.png" group-title="COPTIC HD", CTV HD
+https://5d12bc59c4748.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
+#EXTINF: -1 tvg-id="aghapy.tv" tvg-name="Aghapy TV" tvg-logo="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" tvg-logo-small="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" group-title="COPTIC HD", Aghapy TV
+https://5d12bc59c4748.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ME SAT HD" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2018/07/logo-width12.png" tvg-logo-small="https://copticocc.org/mesat/wp-content/uploads/2018/07/logo-width12.png" group-title="COPTIC HD",ME SAT HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=LKF65kIz52M
+#EXTINF:-1 tvg-id="" tvg-name="MIRACLE EGY" tvg-logo="http://live.miraclechannel.com/images/miraclebkg-black.png" tvg-logo-small="http://live.miraclechannel.com/images/miraclebkg-black.png" group-title="COPTIC HD",MIRACLE EGY
+http://miracle_manager-01.stream.boxigy.com/hls/miracle1_high/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Karma TV" tvg-logo="https://en.alkarmatv.com/wp-content/uploads/2019/12/Logo.png" tvg-logo-small="https://en.alkarmatv.com/wp-content/uploads/2019/12/Logo.png" group-title="COPTIC HD",Al Karma TV
+https://5d12bc59c4748.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Horreya TV" tvg-logo="https://alhorreya.org/images/alhorreya-logo_new.png" tvg-logo-small="https://alhorreya.org/images/alhorreya-logo_new.png" group-title="COPTIC HD",Al Horreya TV
+https://5d12bc59c4748.streamlock.net/alhorreya.tv/alhorreya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Fady TV" tvg-logo="https://alfadytv.tv/templates/fadytv/favicon.ico" tvg-logo-small="https://alfadytv.tv/templates/fadytv/favicon.ico" group-title="COPTIC HD",Al Fady TV
+https://5d12bc59c4748.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Hayat TV" tvg-logo="https://www.alhayat.tv/images/logo/main.34f5c635.png" tvg-logo-small="https://www.alhayat.tv/images/logo/main.34f5c635.png" group-title="COPTIC HD",Al Hayat TV
+https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Logos TV" tvg-logo="https://www.logoschannel.com/images/logo.png" tvg-logo-small="https://www.logoschannel.com/images/logo.png" group-title="COPTIC HD",Logos TV
+https://597f64b67707a.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Koogi TV" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/71bXI852gPL.png" tvg-logo-small="https://images-eu.ssl-images-amazon.com/images/I/71bXI852gPL.png" group-title="COPTIC HD",Koogi TV
+https://5d12bc59c4748.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Noursat" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Noursat-TV.png" tvg-logo-small="https://cdn.sat.tv/wp-content/uploads/2016/05/Noursat-TV.png" group-title="COPTIC HD",Noursat
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
