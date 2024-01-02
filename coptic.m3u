@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF: -1 tvg-id="ctvchannel.tv" tvg-name="CTV HD" tvg-logo="http://www.ctvchannel.tv/Images/PageEn/1/CTVLogo.png" group-title="COPTIC HD", CTV HD
+#EXTINF: -1 tvg-id="ctvchannel.tv" tvg-name="CTV HD" tvg-logo="" group-title="COPTIC HD", CTV HD
 https://5d12bc59c4748.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="aghapy.tv" tvg-name="Aghapy TV" tvg-logo="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" tvg-logo-small="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" group-title="COPTIC HD", Aghapy TV
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
