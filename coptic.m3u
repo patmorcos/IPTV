@@ -3,7 +3,7 @@
 https://5d12bc59c4748.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="aghapy.tv" tvg-name="Aghapy TV" tvg-logo="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" tvg-logo-small="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" group-title="COPTIC HD", Aghapy TV
 https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MIRACLE EGY" tvg-logo="http://live.miraclechannel.com/images/miraclebkg-black.png" tvg-logo-small="http://live.miraclechannel.com/images/miraclebkg-black.png" group-title="COPTIC HD",MIRACLE EGY
+#EXTINF:-1 tvg-id="" tvg-name="MIRACLE EGY" tvg-logo="" tvg-logo-small="" group-title="COPTIC HD",MIRACLE EGY
 http://miracle_manager-01.stream.boxigy.com/hls/miracle1_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Karma TV" tvg-logo="https://en.alkarmatv.com/wp-content/uploads/2019/12/Logo.png" tvg-logo-small="https://en.alkarmatv.com/wp-content/uploads/2019/12/Logo.png" group-title="COPTIC HD",Al Karma TV
 https://5d12bc59c4748.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
