@@ -2,7 +2,7 @@
 #EXTINF: -1 tvg-id="ctvchannel.tv" tvg-name="CTV HD" tvg-logo="http://www.ctvchannel.tv/Images/PageEn/1/CTVLogo.png" group-title="COPTIC HD", CTV HD
 https://5d12bc59c4748.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="aghapy.tv" tvg-name="Aghapy TV" tvg-logo="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" tvg-logo-small="https://www.freeetv.com/images/01_logo/aghapy_tv.jpg" group-title="COPTIC HD", Aghapy TV
-https://5d12bc59c4748.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ME SAT HD" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2018/07/logo-width12.png" tvg-logo-small="https://copticocc.org/mesat/wp-content/uploads/2018/07/logo-width12.png" group-title="COPTIC HD",ME SAT HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1644214520/ei/mGQAYvKQLdGl1watsrCYBg/ip/86.238.92.241/id/vypq9JBgThA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgFtQLsIQYbrgXtE7-urrtapTqx6FLK2Ik2biEEdeGinYCIH_gHjJLaC4LndxYpzHtC3XcAzLHlySLax_PFqzAdh2g/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIRACLE EGY" tvg-logo="http://live.miraclechannel.com/images/miraclebkg-black.png" tvg-logo-small="http://live.miraclechannel.com/images/miraclebkg-black.png" group-title="COPTIC HD",MIRACLE EGY
